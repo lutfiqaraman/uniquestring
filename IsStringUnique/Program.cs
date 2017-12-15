@@ -18,7 +18,7 @@ namespace IsStringUnique
             if (word.Length == newstring.Length)
                 Console.WriteLine("String contains unique characters");
             else
-                Console.WriteLine("String does not contain unique character unique");
+                Console.WriteLine("String does not contain unique characters");
 
             Console.ReadLine();
         }
